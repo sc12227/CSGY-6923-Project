@@ -1,0 +1,93 @@
+X:1
+T:Unconditional Generated Sample
+M:4/4
+L:1/8
+Q:1/4=120
+K:C
+
+b4 b4|
+b4 b4| \
+z2 ez e3/2ze'e/2-| \
+ez e'3/2eze'ze/2-| \
+ez e'3/2eze'^fz/2|
+z4 ^f/2z/2f3/2z/2f-| \
+^f/2z/2f zf3/2z3z/2| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+a4- a3/2z/2 d3/2z/2| \
+a4- a3/2z/2 d3/2z/2|
+a4- a3/2z/2 d3/2z/2| \
+a4- a3/2z/2 d3/2z/2| \
+g4- g3/2z/2 d3/2z/2| \
+g4- g3/2z/2 d3/2z/2|
+g4- g3/2z/2 d3/2z/2| \
+g4- g3/2c2z/2| \
+a4- a3/2z/2 d3/2z/2| \
+a4- a3/2z/2 d3/2z/2|
+a4- a3/2z/2 d3/2z/2| \
+a4- a3/2z/2 d3/2z/2| \
+a4- a3/2z/2 d3/2z/2| \
+a4- a3/2z/2 d3/2z/2|
+a4- a3/2z/2 d3/2z/2| \
+a4- a3/2z/2 d3/2
+V:4
+%%MIDI program 0
+z8| \
+[c-A-E-]4 [cAE]3/2z/2 [ecA]2| \
+[c-A-E-]4 [cAE]3/2z/2 [eAE]2| \
+[d-B-F-]4 [dBF]3/2z/2 [fdBF]2|
+[d-B-F-]4 [dBF]3/2z/2 [fdBF]2| \
+[e-B-G-]4 [eBG]3/2z/2 [gBG]2| \
+[d-B-G-]4 [dBG]3/2z/2 [gdBG]2| \
+[dBG]4 [f^dBF]2 [aBF]2|
+[gG][aA] [bB][^d'd] [e'e][f'f] [g'g]2| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+e3-e/2z/2 c'3/2z/2 e'3/2z/2| \
+g3-g/2z/2 e3-e/2z/2| \
+[f-d-]6 [fd]3/2z/2|
+[g-e-]3[ge]/2z/2 [af]3/2z/2 [e^c]3/2z/2| \
+[fd]g/2z/2 g/2z/2g/2z/2 g/2z/2g/2z/2 g/2z/2g/2z/2| \
+[ac-]4 [f-c-]3[fc]/2z/2| \
+[e-c-]3[ec]/2z/2 [a-e-c-]3[aec]/2z/2|
+[g-e-]2 [ge-]/2e/2-[a-e]/2a/2 [g-d-]3[g-d]/2g/2| \
+[e-c-]2 [e-c]/2e/2[cc] [^cc]2 [ee]2| \
+[^c-A-]2 [c-A]/2c/2-[e-c]/2e/2 [f-d-]3[f-d]/2f/2| \
+[e-^c-A-]3[ecA]/2z/2 [a-e-c-]3[aec-]/2c/2|
+[g-e-]2 [ge-]/2e/2-[a-e]/2a/2 [gd-]4| \
+[e-d]4 eA/2z/2 ^c/2z/2e/2z/2| \
+g/2z/2a/2z/2 b/2z/2^c'2<d'2d'| \
+a3-a/2z/2 g/2z/2c'2a|
+---------------

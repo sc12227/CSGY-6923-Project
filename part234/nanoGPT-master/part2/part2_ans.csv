@@ -1,0 +1,8 @@
+Model,Params(M),n_layer,n_head,n_embd,Train Loss(1 epoch),Val Loss (1 epoch),Tokens / ite,Time / iter (ms),Time / epoch (min),Estimated GPU Memory (GB)
+tiny,0.41M,2,2,128,0.6385,0.6377,65536,61.74,15.61,0.005
+small,3.17M,4,4,256,0.3996,0.3987,65536,93.14,23.29,0.038
+medium,10.66M,6,6,384,0.3542,0.3502,65536,136.97,34.24,0.13
+large,25.23M,8,8,512,0.3322,0.3349,65536,206.44,51.61,0.30
+xl,59.06M,12,10,640,0.3188,0.3211,65536,365.87,91.47,0.71
+
+Fitted alpha = 0.6299

@@ -1,0 +1,13 @@
+abc_path,syntactic_valid,midi_success,parse_error,midi_error,num_notes,num_chords,num_rests,nontrivial_music,has_X,has_T,has_M,has_L,has_K
+.ipynb_checkpoints/uncond_01-checkpoint.abc,1,1,,,148,1,91,1,True,True,True,True,True
+uncond_00.abc,1,1,,,0,118,34,1,True,True,True,True,True
+uncond_01.abc,1,1,,,148,1,91,1,True,True,True,True,True
+uncond_02.abc,1,1,,,9,18,252,1,True,True,True,True,True
+uncond_03.abc,1,1,,,59,0,11,1,True,True,True,True,True
+uncond_04.abc,1,1,,,5,115,175,1,True,True,True,True,True
+uncond_05.abc,1,1,,,212,0,48,1,True,True,True,True,True
+uncond_06.abc,0,0,"ABCHandlerException: Bad chord indicator: [C-F,C,-F,,-
+---------------: no closing bracket found.",,0,0,0,0,True,True,True,True,True
+uncond_07.abc,1,1,,,112,66,117,1,True,True,True,True,True
+uncond_08.abc,1,1,,,376,0,360,1,True,True,True,True,True
+uncond_09.abc,1,1,,,0,0,444,0,True,True,True,True,True

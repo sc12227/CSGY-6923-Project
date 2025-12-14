@@ -1,0 +1,5 @@
+Model,Params(M),Train Loss(1 epoch),Val Loss (1 epoch),Tokens / ite,Time / iter (ms),Time / epoch (min),Estimated GPU Memory (GB)
+rnn-small,1.10M,0.5799,0.5775,65536,41.65,10.44,0.05
+rnn-medium,6.41M,0.5111,0.5098,65536,54.63,13.70,0.18
+rnn-large,19.05M,0.4717,0.4799,65536,128.73,32.27,0.48
+rnn-xl,42.19M,0.5511,0.5317,65536,254.95,63.91,0.95

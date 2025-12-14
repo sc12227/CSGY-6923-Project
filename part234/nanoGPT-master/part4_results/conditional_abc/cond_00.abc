@@ -1,0 +1,155 @@
+X: 1
+T: from /root/autodl-tmp/data/midi_raw/lmd_full/4/44978f394ffed2f23247187e41c72f13.mid
+M: 4/4
+L: 1/8
+Q:1/4=140
+K:C % 0 sharps
+V:1
+%%MIDI program 0
+[bf][bf]/2[bf]/2 [bf][bf]/2[bf]/2 [bf][^a^f] [bg][g-e-]| \
+[ge]8| \
+z8| \
+ee ee ee dc|
+B2 ee ee Bf-| \
+f2 e2<e2 ec| \
+ee ee e2 dc| \
+BB BB BB AG|
+AB cA2G3| \
+ee ee ee dc| \
+g2 ag2e3| \
+ee ee ee dc|
+B2 ee ee Bf-| \
+f2 e2<e2 ec| \
+ee ee e2 dc| \
+BB BB BB AG|
+AB cA2G3| \
+bb bb aa ga-| \
+ag ^fg bb ba-| \
+a2 z2 c'c' c'a|
+bb bb aa ga-| \
+a2 z2 c'c' c'a| \
+bb bb aa ga-| \
+a2 z2 c'c' c'a|
+bb bb aa ga-| \
+a2 z2 c'c' c'a| \
+bb bb aa ga| \
+z8|
+B2 ee ee Bf-| \
+f2 e2<e2 ec| \
+ee ee e2 dc| \
+BB BB BB AG|
+AB cA2G3| \
+ee ee ee dc| \
+g2 ag2e3| \
+ee ee ee dc|
+B2 ee ee Bf-| \
+f2 e2<e2 ec| \
+ee ee e2 dc| \
+BB BB BB AG|
+AB cA2G3| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z6 ee| \
+ee ee e2 dc| \
+BB BB BB AG|
+AB cA2G3| \
+z6 ee| \
+ee ee e2 dc| \
+BB BB BB AG|
+AB cA2G3| \
+z8| \
+ee ee ee dc| \
+BB BB BB AG|
+AB cA2G3| \
+z8| \
+ee ee ee dc| \
+BB BB BB AG|
+AB cA2G3| \
+ee ee ee dc| \
+g2 ag2e3| \
+ee ee ee dc|
+B2 ee ee Bf-| \
+f2 e2<e2 ec| \
+ee ee e2 dc| \
+BB BB BB AG|
+AB cA2G3| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z6 ee|
+ee ee e2 dc| \
+BB BB BB AG| \
+AB cA2G3|
+V:2
+%%MIDI program 0
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+z6 ee| \
+ee ee e2 dc| \
+BB BB BB AG|
+AB cA2G3| \
+z8| \
+ee ee ee dc| \
+BB BB BB AG|
+AB cA2G3| \
+ee ee ee dc| \
+g2 ag2e3| \
+ee ee ee dc|
+g2 ag2e3| \
+ee ee ee dc| \
+BB BB BB AG| \
+AB cA2G3|
+z8| \
+z8| \
+z8| \
+z8|
+z8| \
+ee ee ee Bf-| \
+f2 e2<e2 ec| \
+ee ee ea2g|
+z8| \
+ee ee ee Bf-| \
+f2 e2<e2 ec| \
+ee ee ea2g|
+z8| \
+ee ee ee dc| \
+g2 ag2e3| \
+ee ee ee dc|
+g2 ag2e
+---------------

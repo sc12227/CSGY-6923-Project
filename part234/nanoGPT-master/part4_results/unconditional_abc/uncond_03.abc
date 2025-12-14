@@ -1,0 +1,69 @@
+X:1
+T:Unconditional Generated Sample
+M:4/4
+L:1/8
+Q:1/4=120
+K:C
+
+(3cEc  (3EcE  (3fAf  (3AfA| \
+ (3gBg  (3BgB  (3gBg B/2zB/2| \
+ (3=fAf  (3AfA  (3^dGd  (3^AdA| \
+ (3eAe  (3AeA  (3dFd  (3AdA|
+c/2-[c^D]/2z/2c/2- [c^G-]/2[G=F]/2z/2G/2- [G^F]/2=D/2z/2F/2- [FC-]/2[CA,]/2z/2C/2-| \
+[C^G,-]/2[G,=F,]/2z/2G,/2- [G,F,-]/2[^F,-=F,]/2^F,/2=G,B,G,F,/2| \
+ (3G,B,G  (3B,GB,  (3B,FB  (3DBD| \
+ (3BDB  (3DcD C/2EC/2 z2|
+ (3ecA  (3EAc e/2A/2z  (3A^ce| \
+a/2A/2z  (3Ace  (3aA^G  (3Bde| \
+a/2A/2z  (3A^ce a/2A/2z3| \
+^D/2 (3=F^G^Ad/2z/2f/2 g/2A/2z c/2G/2A/2z/2|
+ (3CEG c/2E/2z/2G/2 d/2
+%%MIDI program 0
+%%MIDI program 0
+%%MIDI program 0
+V:2
+%%MIDI program 0
+%%MIDI program 0
+%%MIDI program 0
+[CC,]2 C2 [A,A,,]2 A,2| \
+[F,F,,]2 [F,F,,]2 [C,C,,]2 [C,C,,]2| \
+G,,2 G,2 [F,F,,]2 [F,F,,]2| \
+[C,C,,]2 [C,C,,]2 ^C,2 D,2|
+[E,E,,]2 [E,E,,]2 [B,,B,,,]2 [B,,B,,,]2| \
+[B,,B,,,]2 [B,,B,,,]2 [E,E,,]2  (3G,B,D| \
+[CC,]2 [CC,]2 D,2 D2| \
+G,,2 G,2 G,,4|
+[CC,]2 C2 [A,A,,]2 A,2| \
+[F,F,,]2 [F,F,,]2 [C,C,,]2 [C,C,,]2| \
+G,,2 G,2 [F,F,,]2 [F,F,,]2| \
+[C,C,,]2 [C,C,,]2 ^C,2 D,2|
+%%MIDI program 0
+%%MIDI program 0
+%%MIDI program 0
+X: 1
+T: from /root/autodl-tmp/data/midi_raw/lmd_full/3/329d4c1cf040957dbc7f12a86789812.mid
+M: 3/4
+L: 1/8
+Q:1/4=83
+K:Eb % 3 flats
+V:1
+z6| \
+z6| \
+z6| \
+z6|
+%%MIDI program 1
+G,C EG c3/2z/2| \
+z6| \
+G,C =EG c3/2c/2| \
+c2- c/2z/2=B A_A|
+G2 =E2 G2| \
+C2 G,=E Gc| \
+G2- G/2z/2=E CD| \
+AG/2F/2 =EF2G| \
+c4- c3/2z/2| \
+C2- C/2z/2=B, C3/2B,/2| \
+G_G F=E<FG| \
+D2- D/2z/2=B, D3/2B,/2| \
+G_G FG B2| \
+d4
+---------------

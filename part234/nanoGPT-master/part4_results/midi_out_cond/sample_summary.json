@@ -1,0 +1,14 @@
+{
+  "total_samples": 20,
+  "syntactic_valid_count": 20,
+  "midi_success_count": 20,
+  "nontrivial_music_count": 18,
+  "syntactic_valid_pct": 100.0,
+  "midi_success_pct": 100.0,
+  "nontrivial_music_pct": 90.0,
+  "notes_about_metric": {
+    "syntactic_valid": "music21 can parse the ABC file without exception",
+    "midi_success": "parsed stream can be written to MIDI without exception",
+    "nontrivial_music": "contains at least one Note or Chord (not only rests)"
+  }
+}
