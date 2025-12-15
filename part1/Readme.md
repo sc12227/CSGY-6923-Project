@@ -8,14 +8,14 @@ After downloading the dataset, place the entire dataset in the `../data/midi_raw
 
 Execution order:
 
-midi_to_abc_mp.py: Convert the MIDI dataset to ABC dataset.
+`midi_to_abc_mp.py`: Convert the MIDI dataset to ABC dataset.
 
-delete_too_long _abc.py: Remove datasets with unreasonable lengths.
+`delete_too_long _abc.py`: Remove datasets with unreasonable lengths.
 
-clean_abc_raw_index_by_token.py: Remove datasets with unreasonable toekns.
+`clean_abc_raw_index_by_token.py`: Remove datasets with unreasonable toekns.
 
-build_1b_index.py:Select a dataset with at least 1 billion tokens.
+`build_1b_index.py`:Select a dataset with at least 1 billion tokens.
 
-build_vocab.py:Build a vocabulary list
+`build_vocab.py`:Build a vocabulary list
 
-split_abc_by_token_count.py：Splitting the data into training and testing sets.
+`split_abc_by_token_count.py`：Splitting the data into training and testing sets.
