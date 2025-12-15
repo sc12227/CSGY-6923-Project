@@ -4,7 +4,7 @@
 
 # sc12227@nyu.edu
 
-# `project.pdf` 
+# `project.pdf` is my PDF Report
 
 This project is based on the Lakh MIDI Dataset.  It uses nanoGPT and a self-built RNN to train on this dataset, generating several results. This project analyzes the different performance of these two architectures on the Lakh MIDI Dataset and selects nanoGPT XL as the best option to produce the final results.
 
